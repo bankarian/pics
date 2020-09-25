@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T00:36:16.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="S10as898PQmGAYiH1VKj" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T00:48:45.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="Q-9vvKdL0OCnE-3lPOzz" version="13.7.5" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1170" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
         <mxCell id="klY6kW2mKnD8meMdxWTx-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.47;entryY=0.056;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;" edge="1" parent="1" source="klY6kW2mKnD8meMdxWTx-54" target="klY6kW2mKnD8meMdxWTx-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="klY6kW2mKnD8meMdxWTx-54" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;UserService&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ setIndentity(identity)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ generateQues(number)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getUserService(name, pwd): UserService&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="klY6kW2mKnD8meMdxWTx-54" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;UserService&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ UserService(name, pwd)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ setIndentity(identity)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ generateQues(number)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="685" y="770" width="245" height="90" as="geometry" />
         </mxCell>
         <mxCell id="klY6kW2mKnD8meMdxWTx-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.019;exitY=0.788;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;" edge="1" parent="1" source="klY6kW2mKnD8meMdxWTx-85" target="klY6kW2mKnD8meMdxWTx-79">
@@ -88,7 +88,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="klY6kW2mKnD8meMdxWTx-77" value="getUserService(name, pwd)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;" vertex="1" connectable="0" parent="klY6kW2mKnD8meMdxWTx-76">
+        <mxCell id="klY6kW2mKnD8meMdxWTx-77" value="UserService(name, pwd)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;" vertex="1" connectable="0" parent="klY6kW2mKnD8meMdxWTx-76">
           <mxGeometry x="-0.1498" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -143,15 +143,6 @@
         <mxCell id="klY6kW2mKnD8meMdxWTx-81" value="+ setUserService(userService)&#xa;+ run()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="klY6kW2mKnD8meMdxWTx-78">
           <mxGeometry y="84" width="200" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="klY6kW2mKnD8meMdxWTx-55" value="User" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="745" y="1190" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="klY6kW2mKnD8meMdxWTx-57" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;sketch=1;" vertex="1" parent="klY6kW2mKnD8meMdxWTx-55">
-          <mxGeometry y="26" width="80" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="klY6kW2mKnD8meMdxWTx-56" value="- name&#xa;- pwd&#xa;- remark&#xa;- identity" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="klY6kW2mKnD8meMdxWTx-55">
-          <mxGeometry y="34" width="80" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="klY6kW2mKnD8meMdxWTx-59" value="State" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="635" width="160" height="70" as="geometry" />
         </mxCell>
@@ -163,6 +154,18 @@
             <mxPoint x="510" y="360" as="sourcePoint" />
             <mxPoint x="580" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="klY6kW2mKnD8meMdxWTx-55" value="User" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1140" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="klY6kW2mKnD8meMdxWTx-57" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;sketch=1;" vertex="1" parent="klY6kW2mKnD8meMdxWTx-55">
+          <mxGeometry y="26" width="80" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="klY6kW2mKnD8meMdxWTx-56" value="- name&#xa;- pwd&#xa;- remark&#xa;- identity" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;" vertex="1" parent="klY6kW2mKnD8meMdxWTx-55">
+          <mxGeometry y="34" width="80" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="klY6kW2mKnD8meMdxWTx-103" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1190" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
