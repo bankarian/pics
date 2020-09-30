@@ -1,9 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T00:37:33.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="dCPAa-CZiFZhgK7ZvNv0" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-30T00:58:41.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="ht1dJWWbQNxdAKd0dcpm" version="13.7.6" type="github">
   <diagram id="LekN2mBB-UYrPSv3pzjn" name="Page-1">
-    <mxGraphModel dx="1170" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="930" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XCGgzl_pj_wr9GbpbDKN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.81;entryY=0.767;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XCGgzl_pj_wr9GbpbDKN-2" target="XCGgzl_pj_wr9GbpbDKN-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="338" />
+              <mxPoint x="440" y="338" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCGgzl_pj_wr9GbpbDKN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCGgzl_pj_wr9GbpbDKN-2" target="XCGgzl_pj_wr9GbpbDKN-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="299" />
+              <mxPoint x="530" y="299" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCGgzl_pj_wr9GbpbDKN-2" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="460" y="280" width="39.2" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XCGgzl_pj_wr9GbpbDKN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCGgzl_pj_wr9GbpbDKN-3" target="XCGgzl_pj_wr9GbpbDKN-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="299" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCGgzl_pj_wr9GbpbDKN-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="303" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="XCGgzl_pj_wr9GbpbDKN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCGgzl_pj_wr9GbpbDKN-4" target="XCGgzl_pj_wr9GbpbDKN-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="331" />
+              <mxPoint x="600" y="331" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCGgzl_pj_wr9GbpbDKN-4" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="610" y="280" width="39.2" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XCGgzl_pj_wr9GbpbDKN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCGgzl_pj_wr9GbpbDKN-6" target="XCGgzl_pj_wr9GbpbDKN-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="169" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCGgzl_pj_wr9GbpbDKN-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="173" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="XCGgzl_pj_wr9GbpbDKN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.15;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XCGgzl_pj_wr9GbpbDKN-7" target="XCGgzl_pj_wr9GbpbDKN-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485" y="214" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XCGgzl_pj_wr9GbpbDKN-7" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="615" y="150" width="39.2" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XCGgzl_pj_wr9GbpbDKN-13" value="111.111.111.110" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="220" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XCGgzl_pj_wr9GbpbDKN-14" value="是ip为111.111.111.110的客户机&lt;br&gt;向我请求数据呀" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="220" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XCGgzl_pj_wr9GbpbDKN-19" value="111.111.111.110" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="350" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XCGgzl_pj_wr9GbpbDKN-20" value="222.222.222.220" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="424.6" y="350" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XCGgzl_pj_wr9GbpbDKN-22" value="是ip为222.222.222.220的客户机&lt;br&gt;向我请求数据呀" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="350" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XCGgzl_pj_wr9GbpbDKN-23" value="正向代理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="380" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
