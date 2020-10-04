@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-04T05:23:03.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.68" etag="H8kKrmegORF8H8EpIr2S" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-04T05:28:21.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.68" etag="rS1Rnq88WZPEUM-utDDe" version="13.7.7" type="github">
   <diagram id="vcJ616cmpiNWVdmcBv0x" name="Page-1">
-    <mxGraphModel dx="775" dy="629" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="930" dy="789" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,12 +14,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_K4movWzCvrckxXmSMUi-11" value="手机号" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_K4movWzCvrckxXmSMUi-9" edge="1">
+        <mxCell id="_K4movWzCvrckxXmSMUi-11" value="&lt;font color=&quot;#ff0000&quot;&gt;手机号&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#FF9933;" parent="1" source="_K4movWzCvrckxXmSMUi-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="627" y="199" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_K4movWzCvrckxXmSMUi-13" value="验证码" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_K4movWzCvrckxXmSMUi-9" edge="1">
+        <mxCell id="_K4movWzCvrckxXmSMUi-13" value="&lt;font color=&quot;#ff0000&quot;&gt;验证码&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#FF9933;" parent="1" source="_K4movWzCvrckxXmSMUi-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="625" y="229" as="targetPoint" />
             <Array as="points">
@@ -31,12 +31,12 @@
         <mxCell id="_K4movWzCvrckxXmSMUi-9" value="登录" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="327" y="159" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_K4movWzCvrckxXmSMUi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_K4movWzCvrckxXmSMUi-14" edge="1">
+        <mxCell id="_K4movWzCvrckxXmSMUi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#FF9933;" parent="1" source="_K4movWzCvrckxXmSMUi-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="652" y="411" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_K4movWzCvrckxXmSMUi-16" value="用户密码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_K4movWzCvrckxXmSMUi-15" vertex="1" connectable="0">
+        <mxCell id="_K4movWzCvrckxXmSMUi-16" value="&lt;font color=&quot;#ff0000&quot;&gt;用户密码&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_K4movWzCvrckxXmSMUi-15" vertex="1" connectable="0">
           <mxGeometry x="-0.3" y="-1" relative="1" as="geometry">
             <mxPoint x="24" y="-1" as="offset" />
           </mxGeometry>
@@ -64,7 +64,7 @@
             <mxPoint x="156" y="282" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_K4movWzCvrckxXmSMUi-20" value="&lt;font style=&quot;font-size: 13px&quot;&gt;验证是否成功&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_K4movWzCvrckxXmSMUi-19" vertex="1" connectable="0">
+        <mxCell id="_K4movWzCvrckxXmSMUi-20" value="&lt;font style=&quot;font-size: 13px&quot; color=&quot;#6666ff&quot;&gt;验证是否成功&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_K4movWzCvrckxXmSMUi-19" vertex="1" connectable="0">
           <mxGeometry x="-0.5925" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -103,7 +103,7 @@
             <mxPoint x="158" y="482" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_K4movWzCvrckxXmSMUi-27" value="&lt;font style=&quot;font-size: 13px&quot;&gt;密码设置是否成功&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_K4movWzCvrckxXmSMUi-26" vertex="1" connectable="0">
+        <mxCell id="_K4movWzCvrckxXmSMUi-27" value="&lt;font style=&quot;font-size: 13px&quot; color=&quot;#6666ff&quot;&gt;密码设置是否成功&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_K4movWzCvrckxXmSMUi-26" vertex="1" connectable="0">
           <mxGeometry x="-0.5925" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -121,12 +121,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_K4movWzCvrckxXmSMUi-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;fillColor=#66B2FF;" parent="1" source="_K4movWzCvrckxXmSMUi-29" edge="1">
+        <mxCell id="_K4movWzCvrckxXmSMUi-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF9933;strokeWidth=3;fillColor=#66B2FF;" parent="1" source="_K4movWzCvrckxXmSMUi-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="642" y="589" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_K4movWzCvrckxXmSMUi-35" value="小学/初中/高中" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_K4movWzCvrckxXmSMUi-34" vertex="1" connectable="0">
+        <mxCell id="_K4movWzCvrckxXmSMUi-35" value="&lt;font color=&quot;#ff0000&quot;&gt;小学/初中/高中&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_K4movWzCvrckxXmSMUi-34" vertex="1" connectable="0">
           <mxGeometry x="-0.1824" y="1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -151,19 +151,19 @@
             <mxPoint x="156" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vigppPBALEysMJNteH---2" value="&lt;font style=&quot;font-size: 13px&quot;&gt;所有试题&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vigppPBALEysMJNteH---1">
+        <mxCell id="vigppPBALEysMJNteH---2" value="&lt;font style=&quot;font-size: 13px&quot; color=&quot;#6666ff&quot;&gt;所有试题&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vigppPBALEysMJNteH---1">
           <mxGeometry x="-0.5925" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vigppPBALEysMJNteH---6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="vigppPBALEysMJNteH---4">
+        <mxCell id="vigppPBALEysMJNteH---6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;strokeWidth=3;strokeColor=#FF9933;" edge="1" parent="1" source="vigppPBALEysMJNteH---4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="643.5" y="734" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vigppPBALEysMJNteH---7" value="&lt;font style=&quot;font-size: 11px&quot;&gt;做题结果&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="vigppPBALEysMJNteH---6">
+        <mxCell id="vigppPBALEysMJNteH---7" value="&lt;font style=&quot;font-size: 11px&quot; color=&quot;#ff0000&quot;&gt;做题结果&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="vigppPBALEysMJNteH---6">
           <mxGeometry x="-0.1132" y="-3" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint x="-1" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vigppPBALEysMJNteH---11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vigppPBALEysMJNteH---4" target="vigppPBALEysMJNteH---12">
@@ -183,7 +183,7 @@
             <mxPoint x="148" y="794" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vigppPBALEysMJNteH---10" value="&lt;font style=&quot;font-size: 13px&quot;&gt;答题分数&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vigppPBALEysMJNteH---9">
+        <mxCell id="vigppPBALEysMJNteH---10" value="&lt;font style=&quot;font-size: 13px&quot; color=&quot;#6666ff&quot;&gt;答题分数&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vigppPBALEysMJNteH---9">
           <mxGeometry x="-0.5925" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -217,6 +217,28 @@
         </mxCell>
         <mxCell id="vigppPBALEysMJNteH---12" value="显示分数完成" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="307" y="847" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vigppPBALEysMJNteH---20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#FF9933;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="932" y="292" as="targetPoint" />
+            <mxPoint x="758" y="292" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vigppPBALEysMJNteH---21" value="&lt;font color=&quot;#ff0000&quot;&gt;前端给后端&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vigppPBALEysMJNteH---20">
+          <mxGeometry x="-0.3" y="-1" relative="1" as="geometry">
+            <mxPoint x="24" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vigppPBALEysMJNteH---22" value="" style="endArrow=classic;html=1;fillColor=#66B2FF;strokeColor=#6666FF;strokeWidth=3;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="928" y="326" as="sourcePoint" />
+            <mxPoint x="754" y="326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vigppPBALEysMJNteH---23" value="&lt;font style=&quot;font-size: 13px&quot; color=&quot;#6666ff&quot;&gt;后端给前端&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vigppPBALEysMJNteH---22">
+          <mxGeometry x="-0.5925" y="3" relative="1" as="geometry">
+            <mxPoint x="-42" y="-6" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
