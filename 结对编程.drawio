@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-04T05:29:02.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.68" etag="oO1zyRy8K4zWCz-o8zun" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-04T05:30:18.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.68" etag="OuctiSR0yjQEaoNdqbL0" version="13.7.7" type="github">
   <diagram id="vcJ616cmpiNWVdmcBv0x" name="Page-1">
     <mxGraphModel dx="930" dy="789" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_K4movWzCvrckxXmSMUi-25" value="密码设置成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_K4movWzCvrckxXmSMUi-24" vertex="1" connectable="0">
+        <mxCell id="_K4movWzCvrckxXmSMUi-25" value="密码设置失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_K4movWzCvrckxXmSMUi-24" vertex="1" connectable="0">
           <mxGeometry x="0.1268" y="3" relative="1" as="geometry">
             <mxPoint x="62" y="1" as="offset" />
           </mxGeometry>
